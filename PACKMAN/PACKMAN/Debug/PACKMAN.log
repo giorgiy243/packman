@@ -1,0 +1,42 @@
+﻿  Main.cpp
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(320): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(325): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(330): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(335): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(341): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(342): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(404): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(409): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(414): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(419): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(425): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(426): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(465): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(522): warning C4244: инициализация: преобразование "sf::Int64" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(593): warning C4244: инициализация: преобразование "sf::Int64" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(614): warning C4305: =: усечение из "double" к "float"
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(619): warning C4305: =: усечение из "double" к "float"
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(623): warning C4305: =: усечение из "double" к "float"
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(627): warning C4305: =: усечение из "double" к "float"
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(643): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(644): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(648): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(649): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(650): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(651): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(674): warning C4018: <: несоответствие типов со знаком и без знака
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(675): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(676): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(683): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(689): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(696): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(703): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(712): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(713): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(725): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(731): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(738): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\ярлыки с рабочкго стола\packman\packman\main.cpp(745): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  PACKMAN.vcxproj -> C:\ярлыки с рабочкго стола\PACKMAN\Debug\PACKMAN.exe
